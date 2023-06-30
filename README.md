@@ -6,10 +6,8 @@ Web Developer and Technical Content Writer
 
 An adept web developer with a knack for crafting clear, engaging technical content that seamlessly bridges the gap between complex technological concepts and the end-users' understanding
 
-* 🖥️  See my portfolio at [calebro.xyz](http://calebro.xyz)
-* ✉️  You can contact me at [calebro@cretme.com](mailto:calebro@cretme.com)
-* 🚀  I'm currently working on [cretme.com](http://cretme.com)
-* 🧠  I'm learning Next.js and Supabase
+* 🖥️  See my portfolio at [calebro.xyz](https://calebro.xyz)
+* ✉️  You can contact me at [hello@calebro.xyz](mailto:hello@calebro.xyz)
 * 🤝  I'm open to collaborating on Content Creation and Web Development gigs
 
 ### Skills
