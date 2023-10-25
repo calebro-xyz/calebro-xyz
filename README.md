@@ -1,16 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is calebro
 ===============================================================================================================================
 
-Web Developer and Technical Content Writer
+Web Developer and Writer
 ------------------------------------------
-
 
 * 🖥️  See my portfolio at [calebro.xyz](https://calebro.xyz)
 * ✉️  You can contact me at [hello@calebro.xyz](mailto:hello@calebro.xyz)
-* 🤝  I'm open to collaborating on Content Creation and Web Development gigs
+* 🤝  I'm open to collaborating on Content Creation and Web Development Projects
 
 ### Skills
-
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -26,8 +24,6 @@ Web Developer and Technical Content Writer
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/calebro-xyz"><img src="https://github-readme-stats.vercel.app/api?username=calebro-xyz&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="calebro-xyz's GitHub stats" /></a>
 
 <a href="http://www.github.com/calebro-xyz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=calebro-xyz&stroke=ffffff&background=0f172a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
