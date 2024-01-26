@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Writer
 ------------------------------------------
 
-* 🖥️  See my portfolio at [calebro.xyz](https://calebro.xyz)
-* ✉️  You can contact me at [hello@calebro.xyz](mailto:hello@calebro.xyz)
+* 🖥️  See my portfolio at [calebro.one](https://calebro.one)
+* ✉️  You can contact me at [hello@calebro.xyz](mailto:hello@calebro.one)
 * 🤝  I'm open to collaborating on Content Creation and Web Development Projects
 
 ### Skills
