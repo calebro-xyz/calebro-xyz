@@ -22,9 +22,3 @@ Web Developer and Writer
 </p>
 
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/calebro-xyz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=calebro-xyz&stroke=ffffff&background=0f172a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
