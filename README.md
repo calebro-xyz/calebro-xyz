@@ -6,7 +6,7 @@ Web Developer and Writer
 
 * 🖥️  See my portfolio at [calebro.xyz](https://calebro.xyz)
 * ✉️  You can contact me at [hello@calebro.xyz](mailto:hello@calebro.xyz)
-* 🚀  Building [creativefuego.com](https://creativefuego.com) & [tripfuego.com](https://tripfuego.com)
+* 🚀  Building [creativefuego.com](https://creativefuego.com)
 * 🤝  I'm open to collaborating on Content Creation and Web Development Projects
 
 ### Skills
