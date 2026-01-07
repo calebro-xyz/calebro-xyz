@@ -1,13 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is calebro
+Hey, my name is calebro
 ===============================================================================================================================
 
-Web Developer and Writer
+Creative Technologist and Tech Writer
 ------------------------------------------
 
 * 🖥️  See my portfolio at [calebro.xyz](https://calebro.xyz)
 * ✉️  You can contact me at [hello@calebro.xyz](mailto:hello@calebro.xyz)
-* 🚀  Building [creativefuego.com](https://creativefuego.com)
-* 🤝  I'm open to collaborating on Content Creation and Web Development Projects
+* 🚀  Building [CreativeFuego](https://creativefuego.com) ,  [Fuego Design System](https://design.fuego.one)
+* 🤝  I'm open to collaborating on projects involving:
+
+  - Building design systems in React
+  - Creating content websites at scale
+  - Writing documentation and guides for developers
 
 ### Skills
 
@@ -21,4 +25,7 @@ Web Developer and Writer
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 </p>
 
+### Tags
+
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat-square&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35868)](https://codetime.dev)
 
