@@ -8,7 +8,7 @@
 
 - 🖥️ &nbsp; Portfolio → [calebro.xyz](https://calebro.xyz)
 - ✉️ &nbsp; Reach me → [hello@calebro.xyz](mailto:hello@calebro.xyz)
-- 🔥 &nbsp; Building → [CreativeFuego](https://creativefuego.com) &nbsp;·&nbsp; [Fuego Design System](https://design.fuego.one)
+- 🔥 &nbsp; Building → [Coming soon]
 - 🤝 &nbsp; Open to collaborating on:
   - Design systems in React
   - Content websites built for scale
